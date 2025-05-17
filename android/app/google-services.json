@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130522425607",
+    "project_id": "sepehr-to-do-list-app",
+    "storage_bucket": "sepehr-to-do-list-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130522425607:android:3f161d682be72eac793da2",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM5bzqxzb_Ku4xjQPFIs8c9yRA1kgdmto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
